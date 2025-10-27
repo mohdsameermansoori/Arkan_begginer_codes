@@ -1,6 +1,6 @@
 a = int(input("entr the number:"))
 if (a>0):
-    print ("positive")
+    print ("POS")
 elif(a<0):
     print("negative")
 else:
