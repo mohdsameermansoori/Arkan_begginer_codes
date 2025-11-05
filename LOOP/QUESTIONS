@@ -1,0 +1,33 @@
+For Loop Example Questions
+
+Print all numbers from 1 to 10 using a for loop.
+
+Calculate the sum of numbers from 1 to 100 using a for loop.
+
+Print each element in the list fruits = ["apple", "banana", "cherry"].
+
+Print all even numbers between 2 and 20 using a for loop.
+
+Iterate through a string and print each character.
+
+While Loop Example Questions
+
+Print numbers from 1 to 10 using a while loop.
+
+Calculate the factorial of a given number using a while loop.
+
+Prompt for user input repeatedly until the user enters the string "quit".
+
+Print the Fibonacci sequence up to a certain number using a while loop.
+
+Use a while loop to find the first number greater than 100 that is divisible by 17.
+
+Nested and Advanced Loop Questions
+
+Use nested for loops to print the elements of a matrix (list of lists).
+
+For numbers from 1 to 100, print "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "FizzBuzz" for multiples of both 3 and 5.
+
+Write a program that keeps asking the user to enter integers, and stops when a negative number is entered (then print the average of the non-negative numbers).
+
+Given a list of lists, print all items using nested loops.
