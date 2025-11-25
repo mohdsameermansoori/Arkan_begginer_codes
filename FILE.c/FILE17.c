@@ -1,7 +1,9 @@
 #include<stdio.h>
 int main ()
 {
-    int day = 5;
+    int day;
+    printf(" enter the day :");
+    scanf("%d",&day);
     switch (day){
     case 1:
      printf("monday");
@@ -13,14 +15,17 @@ int main ()
      printf("wednesday");
      break ;
     case 4 :
-     printf("thrusday");
+     printf("thursday");
      break ;
     case 5 :
-     printf("saturday");
+     printf("friday");
      break ;
     case 6 :
-     printf("sunday");
+     printf("saturday");
      break ;
+    case 7 :
+     printf("sunday");
+     break;
     default :
      printf("invalid syntax ");
      break ;
