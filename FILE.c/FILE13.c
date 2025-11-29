@@ -1,11 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    int a = 11 ;
-    if ( a % 2 == 0 )
-    printf ("a is even");
+    int num  = 11 ;
+    if ( num % 2 == 0 )
+    printf ("num is even");
     else
-    printf("a is not even ");
+    printf("num is not even ");
     return 0;
 
 }

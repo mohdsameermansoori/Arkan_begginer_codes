@@ -6,7 +6,7 @@ int main ()
         printf ("both values are less than o \n ");
     }
     else{
-    printf("both values are less than 0 \n ");
+    printf("both values are greater than 0 \n ");
     }
     return 0 ;
 }
