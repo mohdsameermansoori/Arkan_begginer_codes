@@ -10,7 +10,7 @@ int main ()
         printf("factorial not defined for negative numbers.\n");
     }
     else if (num ==0){
-        printf("factorial of zero is 0.\n");
+        printf("factorial of zero is 1.\n");
     }
     else{
         for (int i=1; i<=num; i++){

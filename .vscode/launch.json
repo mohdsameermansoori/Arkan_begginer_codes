@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Asus/OneDrive/Documents/Arkan_begginer_codes/FILE.c",
-      "program": "c:/Users/Asus/OneDrive/Documents/Arkan_begginer_codes/FILE.c/build/Debug/outDebug",
+      "cwd": "c:/Users/Asus/OneDrive/Documents/Arkan_begginer_codes/FILE.C",
+      "program": "c:/Users/Asus/OneDrive/Documents/Arkan_begginer_codes/FILE.C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
